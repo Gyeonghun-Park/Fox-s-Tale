@@ -1,0 +1,242 @@
+Unity Editor version:    2021.1.22f1 (a137e5fb0427)
+Branch:                  2021.1/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.5.2 (Build 20G95)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/gyeonghunpark/Fox's Tale
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51027
+Successfully changed project path to: /Users/gyeonghunpark/Fox's Tale
+/Users/gyeonghunpark/Fox's Tale
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 127.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.22f1 (a137e5fb0427)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/gyeonghunpark/Fox's Tale/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-09-28 18:14:01.314 Unity[6530:106289] HIK-LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-09-28 18:14:01.314 Unity[6530:106289] Metal devices available: 1
+2021-09-28 18:14:01.314 Unity[6530:106289] 0: Intel(R) UHD Graphics 630 (low power)
+2021-09-28 18:14:01.315 Unity[6530:106289] Using device Intel(R) UHD Graphics 630 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 630
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56530
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003474 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 109.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.053 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4054ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (616ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (229ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (285ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (109ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (130ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012547 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/gyeonghunpark/Fox's Tale/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/gyeonghunpark/Fox's Tale/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 108.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.622 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1623ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1350ms)
+			LoadAssemblies (141ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (491ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (499ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (109ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (280ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 248.6 MB.
+System memory in use after: 248.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4126.
+Total: 4.159849 ms (FindLiveObjects: 0.294813 ms CreateObjectMapping: 0.174849 ms MarkObjects: 3.623953 ms  DeleteObjects: 0.065252 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc267248e488b8d560f7f9f19363039') in 0.005860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 361.991536 seconds.
+  path: Assets/2D Platformer Assets
+  artifactKey: Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets using Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8dae5519e716237f9b1804c6472007') in 0.001603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.535097 seconds.
+  path: Assets/2D Platformer Assets/Starter_Scene.unity
+  artifactKey: Guid(12eaea94eaebc5e459e49753ddfd1f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Starter_Scene.unity using Guid(12eaea94eaebc5e459e49753ddfd1f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d7b6301f099b4cf62b096b0baaacaf') in 0.033411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1943.266171 seconds.
+  path: Assets/2D Platformer Assets/Graphics
+  artifactKey: Guid(75c810de16a0ee84fbb6e24f55502cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics using Guid(75c810de16a0ee84fbb6e24f55502cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9942c74fc603259bbf027e9104c99293') in 0.004818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.888601 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player
+  artifactKey: Guid(d8561e93fb0885643a928ae0cc44de1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player using Guid(d8561e93fb0885643a928ae0cc44de1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df38bdeab61aae299dfac0f7c7bd1165') in 0.003114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040682 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-climb.png
+  artifactKey: Guid(c179a7ff3bcc4ad439e0d86f33b96480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-climb.png using Guid(c179a7ff3bcc4ad439e0d86f33b96480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c62ae82e9fcaf4e7b6714e51ccc09c4') in 1.308225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-crouch.png
+  artifactKey: Guid(83a68f06629a6f649bf9d5572c17e7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-crouch.png using Guid(83a68f06629a6f649bf9d5572c17e7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3efbd9bccafa1ea81493da25cf3b20a') in 0.020233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-run.png
+  artifactKey: Guid(e584515e5484cf8449d6aaaef8f6c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-run.png using Guid(e584515e5484cf8449d6aaaef8f6c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86bfdd01a69c90a7fcea463123ce51d') in 0.019367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-jump.png
+  artifactKey: Guid(c75bbcc065e590849ab334ba2c39e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-jump.png using Guid(c75bbcc065e590849ab334ba2c39e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121f6c2d70baa6d28cd9a23013078903') in 0.011107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4992581e3faba96986e655e2ea51420') in 0.009503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-hurt.png
+  artifactKey: Guid(0fee9a55d5bdb214980ef65ca7f08461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-hurt.png using Guid(0fee9a55d5bdb214980ef65ca7f08461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df38d62eceb2416282e7e0f82c951e1c') in 0.011616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 171.194873 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c618c55ff5e84de45a1046716da0b3a5') in 0.024471 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.252085 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ebf9caab6aecb960815b928f755381') in 0.026104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.127064 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd9dc5fb06b56acf750eedc72998810') in 0.021269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.050244 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e583405e36591510053b7e589f680b') in 0.020697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.859252 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6be07fcd7e698ae789451b4a94a590') in 0.012347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 324.029565 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c49c4eec45974c606b73a325e2fdf3') in 0.042004 seconds 
